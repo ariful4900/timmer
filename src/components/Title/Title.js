@@ -6,7 +6,7 @@ class Title extends Component {
         super(props)
 
         this.state = {
-            title: 'This is a dummy title',
+            title: 'This is Editable Title',
             isInput: false
         }
     }
